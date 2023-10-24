@@ -1,5 +1,10 @@
 # Error Handling
 ## 今まで遭遇したエラー一覧
+### 20231025
+
+### 20231024
+### 
+
 ### 20231023
 ### Scipyを使ったフィッティング
 `TypeError: can't multiply sequence by non-int of type 'numpy.float64'`
