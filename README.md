@@ -4,3 +4,6 @@
 
 ## ネタ出し
 `Python コンピュータシミュレーション入門`を読む
+
+## リンク
+[https://github.com/yiadka/til/tree/main/programming/mobility](mobility)
