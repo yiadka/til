@@ -6,4 +6,4 @@
 `Python コンピュータシミュレーション入門`を読む
 
 ## リンク
-![programming/mobility](mobility)
+[https://github.com/yiadka/til/blob/main/programming/mobility/error_handling.md](Error Handling)
