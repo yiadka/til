@@ -1,0 +1,10 @@
+numpy
+pandas
+geopy
+networkx
+matplotlib
+scipy
+jupyterlab
+seaborn
+igraph
+sympy
