@@ -1,9 +1,7 @@
 # Error Handling
 ## 今まで遭遇したエラー一覧
-### 20231025
-
-### 20231024
-### 
+### 20231029
+`TypeError unsupported operand`
 
 ### 20231023
 ### Scipyを使ったフィッティング
